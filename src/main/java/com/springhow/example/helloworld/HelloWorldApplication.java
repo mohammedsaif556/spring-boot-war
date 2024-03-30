@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "FINI ACADEMY";
+        return "FINI ACADEMY - Commit from Saif";
     }
 
 }
